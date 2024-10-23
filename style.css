@@ -145,3 +145,26 @@ h4, h5{
     margin-left: 10%;
     border-radius: 30px;
 }
+.subscribe{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 10px;
+}
+input{
+    padding: 20px;
+    margin: 10px;
+}
+.Sub-btn{
+    background-color: white;
+    padding: 8px;
+}
+footer{
+    display: flex;
+    justify-content: space-between; 
+}
+.log{
+    display: flex;
+}
